@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6025bdaf-6290-4614-be8c-0a415eba786a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WRITEUP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/supply_chain_activity.drawio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/supply_chain_class.drawio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/supply_chain_sequence.drawio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/supply_chain_state.drawio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/contracts/coffeeaccesscontrol/ConsumerRole.sol" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/contracts/coffeeaccesscontrol/ConsumerRole.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/contracts/coffeeaccesscontrol/DistributorRole.sol" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/contracts/coffeeaccesscontrol/DistributorRole.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/contracts/coffeeaccesscontrol/RetailerRole.sol" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/contracts/coffeeaccesscontrol/RetailerRole.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/contracts/coffeebase/SupplyChain.sol" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/contracts/coffeebase/SupplyChain.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/src/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/test/TestSupplychain.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/test/TestSupplychain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-6/truffle.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-6/truffle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRITEUP.md" beforeDir="false" afterPath="$PROJECT_DIR$/WRITEUP.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +59,8 @@
       <workItem from="1636595194534" duration="3917000" />
       <workItem from="1636683404413" duration="5167000" />
       <workItem from="1637035168053" duration="1213000" />
-      <workItem from="1637043272528" duration="672000" />
+      <workItem from="1637043272528" duration="1287000" />
+      <workItem from="1637114410866" duration="416000" />
     </task>
     <servers />
   </component>
